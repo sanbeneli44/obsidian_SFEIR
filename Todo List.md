@@ -93,8 +93,8 @@
 	+ [x] Playoff spring ✅ 2026-08-06
 	+ [/] devenir trainer genia4dev > Suivre la formation fin aout + teach back + formation shadow
 + [ ] Trouver une animation pour septembre/octobre #Important #Urgent 
-+ [ ] Faire le résumé de l'atelier EM/Annabelle #Important #Urgent 
-+ [ ] Historiser obsidian dans github et plus dans nas #Important #Urgent 
++ [/] Faire le résumé de l'atelier EM/Annabelle #Important #Urgent 
++ [/] Historiser obsidian dans github et plus dans nas #Important #Urgent 
 
 
 

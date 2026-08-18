@@ -15,7 +15,7 @@
               "state": {
                 "file": "Management/Atelier sur les limites.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Atelier sur les limites"
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anthropic key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +166,19 @@
               "icon": "lucide-list",
               "title": "Plan de AI Fluency, Framework and Foundations"
             }
+          },
+          {
+            "id": "188e3951531d20b5",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -189,10 +200,11 @@
   },
   "active": "fb8197a8d4c189ad",
   "lastOpenFiles": [
-    "README.md",
     "Todo List.md",
-    "Management/Atelier sur les limites.md",
+    "Todo List Board.md",
     "IA/Certification Claude/Building with the Claude API.md",
+    "Management/Atelier sur les limites.md",
+    "README.md",
     "IA/Certification Claude/Claude 101.md",
     "Screenshot 2026-08-06 at 17.22.21.png",
     "Screenshot 2026-08-06 at 16.59.33.png",
